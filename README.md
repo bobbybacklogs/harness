@@ -6,7 +6,6 @@
 ![Runtime](https://img.shields.io/badge/runtime-Bun_1.3+-black?logo=bun)
 ![Language](https://img.shields.io/badge/language-TypeScript-3178c6?logo=typescript)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Agents](https://img.shields.io/badge/agents-52-8b5cf6)
 
 ---
 
@@ -17,7 +16,7 @@ Harness is a terminal-based agent runner for a small business. It loads **your o
 - 🧑‍💼 **Ops** — SOPs, notes, and an action log for running the business
 - 📄 **Docs** — proposals, contracts, marketing copy, templates, revision history
 - 🛠️ **Coding** — write, run, and test code in a fully sandboxed virtual environment
-- 🤖 **+49 Copilot personas** — imported and runnable from the same TUI
+- 🤖 **Your Copilot personas** — imported from `~/.copilot/agents` and runnable from the same TUI
 
 ## Quick start
 
