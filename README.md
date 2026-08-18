@@ -13,10 +13,10 @@
 
 Harness is a terminal-based agent runner for a small business. It loads **your own agents** (Ops, Docs, Coding) plus **your Copilot personas** from `~/.copilot/agents`, and routes them through a local **ModelHitch** bridge so they run on whatever model you want — with failover for free.
 
-- 🧑‍💼 **Ops** — SOPs, notes, and an action log for running the business
-- 📄 **Docs** — proposals, contracts, marketing copy, templates, revision history
-- 🛠️ **Coding** — write, run, and test code in a fully sandboxed virtual environment
-- 🤖 **Your Copilot personas** — imported from `~/.copilot/agents` and runnable from the same TUI
+- **Ops** — SOPs, notes, and an action log for running the business
+- **Docs** — proposals, contracts, marketing copy, templates, revision history
+- **Coding** — write, run, and test code in a fully sandboxed virtual environment
+- **Your Copilot personas** — imported from `~/.copilot/agents` and runnable from the same TUI
 
 ## Quick start
 
